@@ -1,5 +1,5 @@
 --- 
-title: "R para todos"
+title: "R para todos "
 author: "Yihui Xie"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
