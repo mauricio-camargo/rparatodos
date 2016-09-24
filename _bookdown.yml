@@ -1,2 +1,3 @@
-book_filename: "bookdown-demo"
-chapter_name: "Chapter "
+book_filename: "rparatodos"
+chapter_name: "Capítulo "
+output_dir: ./
