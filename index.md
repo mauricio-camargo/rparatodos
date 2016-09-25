@@ -1,7 +1,7 @@
 --- 
 title: "R para todos"
 author: "Maurício Garcia de Camargo (Professor da FURG)"
-date: "`r Sys.Date()`"
+date: "2016-09-25"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book

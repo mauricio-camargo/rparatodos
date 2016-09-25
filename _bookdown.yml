@@ -1,3 +1,26 @@
 book_filename: "rparatodos"
 chapter_name: "Capítulo "
 output_dir: ./
+new_session: yes
+rmd_files: [
+  "index.Rmd",
+
+  "10-desvendando.Rmd",
+  "11-primeirospassos.Rmd",
+  "12-rerstudio.Rmd",
+  "13-funcoesmat.Rmd",
+  "14-tiposdados.Rmd",
+  "15-objetosdados.Rmd",
+  "16-entradadados.Rmd",
+  "17-estatbasica.Rmd",
+
+  "20-dominando.Rmd",
+  "21-funcaoesvetorizadas.Rmd",
+  "22-programando.Rmd",
+  "23-modeloslineares.Rmd",
+  "24-analisemultivar.Rmd",
+
+  "30-expandindo.Rmd",
+  "31-rmarkdown.Rmd",
+  "32-reprodutibilidade.Rmd",
+]
