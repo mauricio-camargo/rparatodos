@@ -1,3 +1,0 @@
-# Primeiroa passos
-
-Here is a review of existing methods.

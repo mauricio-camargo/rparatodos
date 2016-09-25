@@ -6,7 +6,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">R para todos</a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Maurício Camargo - FURG</a></li>
+        <li><a href="mauricio-camargo.github.io" target="blank">Maurício Camargo - FURG</a></li>
     edit:
       link: https://github.com/mauricio-camargo/rparatodos/edit/master/%s
 bookdown::pdf_book:
