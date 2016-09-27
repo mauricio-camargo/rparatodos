@@ -1,7 +1,7 @@
 --- 
 title: "R para todos"
 author: "Maurício Garcia de Camargo (Professor da FURG)"
-date: "2016-09-25"
+date: "2016-09-27"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -14,7 +14,11 @@ description: "Este livro reune todo meu aprendizado no R."
 
 # Prefácio {-}
 
-Se o R me assustou no início, imagino o que fez a você!	A má notícia é que não tem como fugir: ou você aprende o R, ou fica para trás! Você deve ter ouvido falar nas maravilhas que R faz. Ele faz qualquer análise estatística e seus gráficos são maravilhosos, tudo de graça. Só tem um probleminha: R não é fácil de aprender.	Pela minha experiência de 15 anos ensinando R para turmas de graduação e pós-graduação, qualquer um pode aprender o R, desde que entenda um pouquinho de estatística. O problema em aprender o R é que a maioria das pessoas não entende nada de estatística, mesmo após terem passado por cursos básicos na graduação.
+Ouvi falar no R pela primeira vez em 2002. De uma hora para outra, todo mundo que trabalhava com estatística tinha que saber a usar o R. Eu ainda cheguei atrasado. Só em 2004 tomei vergonha e comecei a usar.  
+Parecia coisa do outro mundo, impenetrável. Não havia como aprender 
+
+O R assusta! Demorei uns quatro anos para me decidir a começar a aprender o R. Isso foi em 2004.
+no início, imagino o que fez a você!	A má notícia é que não tem como fugir: ou você aprende o R, ou fica para trás! Você deve ter ouvido falar nas maravilhas que R faz. Ele faz qualquer análise estatística e seus gráficos são maravilhosos, tudo de graça. Só tem um probleminha: R não é fácil de aprender.	Pela minha experiência de 15 anos ensinando R para turmas de graduação e pós-graduação, qualquer um pode aprender o R, desde que entenda um pouquinho de estatística. O problema em aprender o R é que a maioria das pessoas não entende nada de estatística, mesmo após terem passado por cursos básicos na graduação.
 
 Então as pessoas acham que aprendendo o R automaticamente aprenderão estatística!
 
