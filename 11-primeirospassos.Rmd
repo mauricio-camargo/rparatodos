@@ -16,10 +16,12 @@ Os comandos da janela de scripts pode ser passados para o console do R usando **
 
 **Atalhos do teclado interessantes:**
 
-| Atalho do techado | Ação                                               |
-| ----------------- | -------------------------------------------------- |
-|Ctrl+Enter         | Enviar o código da linha atual para o console do R |
-|Ctrl+O             | Abrir um arquivo                                   |
-|Ctrl+PgUp          | Aba de scritp anterior                             |
-|Ctrl+PgDw          | Aba de scritp seguinte                             |
-|Ctrl+S             | Salva o documento atual                            |
+```{r,results='asis',echo=FALSE}
+a=c('Ctrl+Enter','Ctrl+O','Ctrl+PgUp','Ctrl+PgDw','Ctrl+S')
+b=c('Enviar o código da linha atual para o console do R','Abrir um arquivo   ','Aba de scritp anterior','Aba de scritp seguinte','Salva o documento atual')
+d=data.frame(a,b)
+colnames(d)=c('Atalho do techado','Ação')
+library(simpletable)
+tablecode(d,tabletype='another')
+```
+

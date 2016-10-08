@@ -40,9 +40,9 @@ Pela minha experiência mais de 10 anos ensinando R para turmas de graduação e
 
 Aprender o R e aprender estatística não são a mesma coisa, mas muita gente acha que aprendendo o R automaticamente aprenderão estatística!
 
-Este livro não se propõe a ensinar estatítica. Para isso existem muitos outros bons livros por aí. Aqui você aprenderá a usar o R como ferramenta e fazer algumas coisas interessantes com ele. O objetivo deste livro é funcionar como um manual de consultas, ou de receitas, onde você poderá recorrer em caso de necessidade. 
+Este livro não se propõe a ensinar estatítica. Para isso existem muitos outros bons livros por aí. Aqui você aprenderá a usar o R como ferramenta e fazer algumas coisas interessantes com ele. O objetivo deste livro é funcionar como um manual de consultas, ou de receitas, onde você poderá recorrer em caso de necessidade. Para fazer pesquisa rápida sobre um tema em todo o livro, use o botão com a lupa acima nesta página
 
-Este livro está sendo escrito usando... o R! O pacote do R `bookdown` fornece ferramentas de edição de livros usando a linguagem `rmarkdown`, que é de fácil aprendizado.
+Este livro está sendo escrito usando... o R! O pacote do R `bookdown` fornece ferramentas de edição de livros usando a linguagem `rmarkdown`, que é de fácil aprendizado. 
 
 Estas notas são fruto de mais de dez anos de experiência no ensino da estatística na graduação e na pós-graduação do Centro de Estudos do Mar da UFPR e no Instituto Oceanográfico da FURG, além de ensinar como convidado em outras instituições.
 
@@ -62,8 +62,7 @@ Um especial agradecimento ao time de desenvolvedores do R, que disponibilizou um
 
 Por último, mas não em último, um carinhoso agradecimento aos meus três filhos e à Eunice, que suportam em casa um chato que só fala em estatística.
 
-O livro está hospedado em https://github.com/mauricio-camargo/rparatodos e pode ser acessado livremente. Caso queira contribuir com o conteúdo do livro, use os recursos do `github`.
-
+O livro está hospedado em https://github.com/mauricio-camargo/rparatodos e pode ser acessado livremente. Se você quiser contribuir para o livro, pode usar os recursos de edição do `github`, que pode ser acessado pelo botão na parte superior desta página.
 
 <br>
 <br>
