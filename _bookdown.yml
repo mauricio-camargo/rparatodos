@@ -1,11 +1,2 @@
 book_filename: "rparatodos"
 chapter_name: "Cap. "
-output_dir: ./
-new_session: yes
-header-includes:
-   - \setlength\parindent{20pt}
-   - \linespread{1.5}
-   - \usepackage[scaled=.8]{beramono}
-   - \renewcommand\arraystretch{0.7}
-   - \renewcommand{\familydefault}{\sfdefault}
-   - \setmonofont{\ttdefault}
