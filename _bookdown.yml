@@ -1,2 +1,3 @@
 book_filename: "rparatodos"
 chapter_name: "Cap. "
+output_dir: ./
