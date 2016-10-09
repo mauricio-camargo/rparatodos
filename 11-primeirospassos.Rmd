@@ -14,14 +14,16 @@ A janela inferior esquerda mostra o próprio R em ação. Se trata do console do
 
 Os comandos da janela de scripts pode ser passados para o console do R usando **Ctr+Enter** ou pressionando o botão *Run*.
 
+<center>
+
 **Atalhos do teclado interessantes:**
 
 ```{r,results='asis',echo=FALSE}
-a=c('Ctrl+Enter','Ctrl+O','Ctrl+PgUp','Ctrl+PgDw','Ctrl+S')
-b=c('Enviar o código da linha atual para o console do R','Abrir um arquivo   ','Aba de scritp anterior','Aba de scritp seguinte','Salva o documento atual')
-d=data.frame(a,b)
+d=data.frame(c('Ctrl+Enter','Ctrl+O','Ctrl+PgUp','Ctrl+PgDw','Ctrl+S'),
+c('Enviar o código da linha atual para o console do R','Abrir um arquivo   ','Aba de scritp anterior','Aba de scritp seguinte','Salva o documento atual'))
 colnames(d)=c('Atalho do techado','Ação')
 library(simpletable)
-tablecode(d,tabletype='another')
+tablecode(d,tabletype='another',)
 ```
 
+</center>
