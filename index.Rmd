@@ -14,13 +14,21 @@ description: "Este livro reune todo meu aprendizado no R."
 
 # Prefácio {-}
 
-O R assusta! 
+O R frustra e assusta! Às vezes traumatiza. 
 
-Conheci o R em 2001 mas demorei uns três anos para tomar coragem e começar a aprender sozinho.  
+Muita gente ficou traumatizada com o R e não pode mais ouvir falar nele...
+
+Mas irão, e muito! O R veio para ficar, para sempre. 
+
+Então talvez tenha chegado a hora de mostrar que o aprendizado do R não precisa ser traumático e que talvez possa até ser agradável.
+
+O R é para todos!
+
+Conheci o R em 2001, mas demorei uns três anos para tomar coragem e começar a aprender sozinho.  
 
 Se o R assustou a mim, que adoro estatística, imagino o que fez a você!
 
-Mas você verá que o susto passa rápido. Talvez  a única desvantagem do R seja justamente essa: a sua curva de aprendizado é relativamente inclinada! Mas conforme você vai aprendendo, vai também entendendo as vantagens do R, que são inúmeras, e quando o susto passar, vai sentir uma imensa alegria em poder fazer as suas coisas no R.
+Mas você verá que o susto passa rápido. Talvez  a única desvantagem do R seja justamente essa: a sua curva de aprendizado é relativamente inclinada! Mas após superar o primeiro passo, que é o mais difícil, você vai entender as vantagens do R, que são inúmeras, e quando o susto passar, vai sentir uma imensa alegria em poder fazer as suas coisas no R.
 
 Você terá orgulho em saber o R!
 
