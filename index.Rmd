@@ -14,7 +14,7 @@ description: "Este livro reune todo meu aprendizado no R."
 
 # Prefácio {-}
 
-O R frustra e assusta! De vez em quando, traumatiza. 
+O R frustra e assusta! Às vezes traumatiza. 
 
 Muita gente ficou traumatizada com o R e não pode mais ouvir falar nele...
 
