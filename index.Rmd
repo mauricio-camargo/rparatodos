@@ -16,13 +16,13 @@ description: "Este livro reune todo meu aprendizado no R."
 
 O R frustra e assusta! Às vezes traumatiza. 
 
-Muita gente ficou traumatizada com o R e não pode mais ouvir falar nele...
+Muitos ficaram traumatizados com o R e não podem mais ouvir falar nele...
 
 Mas ouvirão, e muito! O R veio para ficar, para sempre. 
 
-Então talvez tenha chegado a hora de mostrar que o aprendizado do R não precisa ser traumático e que talvez possa até ser agradável.
+Mas acredito que o aprendizado do R não precisa ser traumático. Talvez possa ser até agradável.
 
-O R é para todos!
+**O R é para todos!**
 
 Conheci o R em 2001, mas demorei uns três anos para tomar coragem e começar a aprender sozinho.  
 
