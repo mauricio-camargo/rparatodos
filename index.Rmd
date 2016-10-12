@@ -26,9 +26,9 @@ Mas acredito que o aprendizado do R não precisa ser traumático. Talvez possa s
 
 Conheci o R em 2001, mas demorei uns três anos para tomar coragem e começar a aprender sozinho.  
 
-Se o R assustou a mim, que adoro estatística, imagino o que fez a você!
+O R assustou até a mim, que adoro estatística.
 
-Mas você verá que o susto passa rápido. Talvez  a única desvantagem do R seja justamente essa: a sua curva de aprendizado é relativamente inclinada! Mas após superar o primeiro passo, que é o mais difícil, você vai entender as vantagens do R, que são inúmeras, e quando o susto passar, vai sentir uma imensa alegria em poder fazer as suas coisas no R.
+Mas o susto passa rápido, você logo vai perceber. Para mim, a única desvantagem do R é justamente essa: a sua curva de aprendizado é relativamente inclinada! Mas após superar o primeiro passo, que é o mais difícil, você vai entender as vantagens do R são inúmeras e, quando o susto passar, vai sentir uma imensa alegria em poder fazer as suas coisas no R.
 
 Você terá orgulho em saber o R!
 
@@ -42,15 +42,13 @@ Ou seja, ele faz tudo, e de maneira fácil. E, além de tudo, é *grátis*!
 
 Muita gente já afirmou que o R não é para qualquer um, mas eu acredito firmemente que o R seja **Para todos**.
 
-Pela minha experiência mais de 10 anos ensinando R para turmas de graduação e pós-graduação, qualquer um pode aprender o R. Em todas as turmas, 15 a 25% nunca irão aprender porque não querem; 50% farão um pequeno esforço e aprenderão as coisas básicas; 15 a 25% vão aprender além do básico, buscando recursos de aprendizado por conta própria, que existem aos montes na internet; 2 a 5% irão viciar no R, alguns de maneira não saudável.
+Pela minha experiência de mais de 10 anos ensinando R para turmas de graduação e pós-graduação, qualquer um pode aprender o R. Em todas as turmas, 15 a 25% nunca irão aprender porque não querem; 50% farão um pequeno esforço e aprenderão as coisas básicas; 15 a 25% vão aprender além do básico, buscando recursos de aprendizado por conta própria, que existem aos montes na internet; 2 a 5% irão viciar no R, alguns de maneira não saudável.
 
 > Usar o R é um pouco semelhante ao tabagismo. No começo é difícil, pode ter dores de cabeça e até mesmo sufocar nas primeiras vezes. Mas, a longo prazo, torna-se agradável e até mesmo viciante. No entanto, no fundo, para aqueles dispostos a serem honestos, há algo que não é totalmente saudável nele. *François Pinard*
 
-Aprender o R e aprender estatística não são a mesma coisa, mas muita gente acha que aprendendo o R automaticamente aprenderão estatística!
+Aprender o R e aprender estatística não são a mesma coisa. Muitos acham que, aprendendo o R, automaticamente aprenderão estatística! Este livro não se propõe a ensinar estatítica. Para isso existem muitos outros bons livros por aí. Aqui você aprenderá a usar o R como ferramenta e fazer algumas coisas interessantes com ele. Você aprenderá fazendo, usando códigos prontos e testados, muitas vezes difíceis de encontrar em outros lugares. O objetivo deste livro é funcionar como um manual de consultas, ou de receitas, onde você poderá recorrer em caso de necessidade. Para fazer pesquisa rápida sobre um tema em todo o livro, use o botão com a lupa acima nesta página.
 
-Este livro não se propõe a ensinar estatítica. Para isso existem muitos outros bons livros por aí. Aqui você aprenderá a usar o R como ferramenta e fazer algumas coisas interessantes com ele. O objetivo deste livro é funcionar como um manual de consultas, ou de receitas, onde você poderá recorrer em caso de necessidade. Para fazer pesquisa rápida sobre um tema em todo o livro, use o botão com a lupa acima nesta página
-
-Este livro está sendo escrito usando... o R! O pacote do R `bookdown` fornece ferramentas de edição de livros usando a linguagem `rmarkdown`, que é de fácil aprendizado. 
+Este livro está sendo escrito usando... o R! O pacote do R `bookdown` fornece ferramentas de edição de livros usando a linguagem `rmarkdown`, que é de fácil aprendizado e cujos funcionamentos estão descritos no capítulo ????. 
 
 Estas notas são fruto de mais de dez anos de experiência no ensino da estatística na graduação e na pós-graduação do Centro de Estudos do Mar da UFPR e no Instituto Oceanográfico da FURG, além de ensinar como convidado em outras instituições.
 
